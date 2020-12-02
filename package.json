@@ -16,5 +16,12 @@
     "url": "https://github.com/160R-W02N1Ak/learning-git-2/issues"
   },
   "homepage": "https://github.com/160R-W02N1Ak/learning-git-2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.13",
+    "global": "^4.4.0",
+    "html-validate": "^4.0.2"
+  },
+  "dependencies": {},
   "description": ""
 }
